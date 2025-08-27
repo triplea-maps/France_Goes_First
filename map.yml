@@ -1,0 +1,3 @@
+map_name: france goes first
+games:
+- {game_name: France Goes First, file_name: uhd_world_war_ii_global.xml}
